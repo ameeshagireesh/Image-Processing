@@ -1,6 +1,6 @@
 # created by virtualenv automatically
 imgpro/bin/
 imgpro/lib/
-Lib/
-Scripts/
+Lib
+Scripts
 .vscode/
