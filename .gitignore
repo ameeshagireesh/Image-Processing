@@ -2,5 +2,8 @@
 imgpro/bin/
 imgpro/lib/
 Lib
+bin/
+lib/
 Scripts
 .vscode/
+__pycache__
